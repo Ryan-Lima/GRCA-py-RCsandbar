@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="211">
+        <Placemark id="213">
+            <name>P3_2019_RC1227R</name>
+            <Point id="212">
+                <coordinates>-108.0629069597942,30.94799358838347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>P24_2019_RC1227R</name>
+            <Point id="214">
+                <coordinates>-108.06289857349846,30.947989463291453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>P19_2019_RC1227R</name>
+            <Point id="216">
+                <coordinates>-108.06280528255994,30.94798483055517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>P2_2019_RC1227R</name>
+            <Point id="218">
+                <coordinates>-108.0621466542244,30.94798487907745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>P14_2019_RC1227R</name>
+            <Point id="220">
+                <coordinates>-108.06237952085844,30.947970450209127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>P15_2019_RC1227R</name>
+            <Point id="222">
+                <coordinates>-108.06224534013413,30.947969218618194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>P23_2019_RC1227R</name>
+            <Point id="224">
+                <coordinates>-108.0619260847234,30.947981049216413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>P17_2019_RC1227R</name>
+            <Point id="226">
+                <coordinates>-108.06194912953131,30.947965130338524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>P30_2019_RC1227R</name>
+            <Point id="228">
+                <coordinates>-108.06179933161792,30.947995564793672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>P15_2019_RC1227R</name>
+            <Point id="230">
+                <coordinates>-108.06180151053,30.9479788155026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>RC1227R_NE_max</name>
+            <Point id="232">
+                <coordinates>-108.06147520489658,30.948256211295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>RC1227R_NE_min</name>
+            <Point id="234">
+                <coordinates>-108.06323137865473,30.94772555777289,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
